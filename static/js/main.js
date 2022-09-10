@@ -1,4 +1,4 @@
-const apiKey = "AAPK34133c70202e4ca3bb784447346c0444RotY00yytnrmBicqACdr8_NXIy16nntFEkx1AQl8YaJwJra0iwsmHNoIe2Ifl9Vl";
+const apiKey = "API_KEY";
 
 const basemapEnum = "ArcGIS:Navigation";
 
